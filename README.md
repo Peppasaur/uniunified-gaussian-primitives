@@ -5,8 +5,7 @@ usage
 ```bash
 cd Gaussian
 g++ -O2 -o o2render *.cpp ../Shading/SurfaceParameters.cpp ../Shading/Disney.cpp ../Shading/Fresnel.cpp ../Shading/Ggx.cpp ../MathLib/*.cpp ../SystemLib/MemoryAllocation.cpp -I../ -I/home/qinhaoran/libs/include -L/home/qinhaoran/libs/lib -lfcl -lccd -lcnpy -lz --std=c++11 -pthread
-./o2render
-'''
+./o2render'''
 
 ![image](https://github.com/user-attachments/assets/c3a24c8d-bab6-4650-b003-83461b39d1b3)
 ![image](https://github.com/user-attachments/assets/6e6182c8-9cb7-4b34-9d73-fbe3b4cba207)
