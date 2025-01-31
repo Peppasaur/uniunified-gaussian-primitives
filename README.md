@@ -1,4 +1,4 @@
-# uniunified-gaussian-primitives
+![image](https://github.com/user-attachments/assets/71d6b6f4-1881-4ff7-86c4-495fab29090f)# uniunified-gaussian-primitives
 A partial implementation of "unified gaussian primitives for scene representation and rendering"
 
 usage
@@ -9,7 +9,11 @@ g++ -O2 -o o2render *.cpp ../Shading/SurfaceParameters.cpp ../Shading/Disney.cpp
 ```
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c3a24c8d-bab6-4650-b003-83461b39d1b3" width="200">
-  <img src="https://github.com/user-attachments/assets/6e6182c8-9cb7-4b34-9d73-fbe3b4cba207" width="200">
-  <img src="https://github.com/user-attachments/assets/993ddd03-7c5c-42d3-a05a-a826e88ccd57" width="200">
+  <img src="https://github.com/user-attachments/assets/edb5b2b9-2117-46d9-a257-5409e5803735" width="200">
+  <img src="https://github.com/user-attachments/assets/24eb121f-de21-4bdf-93fd-3bcb628a812f" width="200">
+  <img src="https://github.com/user-attachments/assets/4b2cb40e-5d34-46c6-a9c0-b9acd92873e4" width="200">
 </p>
+
+![image](https://github.com/user-attachments/assets/edb5b2b9-2117-46d9-a257-5409e5803735)
+![image](https://github.com/user-attachments/assets/24eb121f-de21-4bdf-93fd-3bcb628a812f)
+![image](https://github.com/user-attachments/assets/4b2cb40e-5d34-46c6-a9c0-b9acd92873e4)
