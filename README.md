@@ -12,5 +12,3 @@ g++ -O2 -o o2render *.cpp ../Shading/SurfaceParameters.cpp ../Shading/Disney.cpp
   <img src="https://github.com/user-attachments/assets/24eb121f-de21-4bdf-93fd-3bcb628a812f" width="200">
   <img src="https://github.com/user-attachments/assets/0f12d1b9-ac65-4014-b629-513618cfcb41" width="200">
 </p>
-
-![image](https://github.com/user-attachments/assets/0f12d1b9-ac65-4014-b629-513618cfcb41)
