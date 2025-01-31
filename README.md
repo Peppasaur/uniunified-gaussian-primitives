@@ -10,6 +10,7 @@ g++ -O2 -o o2render *.cpp ../Shading/SurfaceParameters.cpp ../Shading/Disney.cpp
 <p align="center">
   <img src="https://github.com/user-attachments/assets/edb5b2b9-2117-46d9-a257-5409e5803735" width="200">
   <img src="https://github.com/user-attachments/assets/24eb121f-de21-4bdf-93fd-3bcb628a812f" width="200">
-  <img src="https://github.com/user-attachments/assets/4b2cb40e-5d34-46c6-a9c0-b9acd92873e4" width="200">
+  <img src="https://github.com/user-attachments/assets/0f12d1b9-ac65-4014-b629-513618cfcb41" width="200">
 </p>
 
+![image](https://github.com/user-attachments/assets/0f12d1b9-ac65-4014-b629-513618cfcb41)
