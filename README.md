@@ -1,5 +1,7 @@
 A partial implementation of "unified gaussian primitives for scene representation and rendering"
 
+The paper "Gaussian General Scene Representation" proposes a differentiable rendering framework that assigns PBR parameters to each 3D Gaussian primitive and performs ray sampling on the primitives, applying BSDF to the sampled primitives. At the same time, the normal distribution of each Gaussian primitive is not fixed, but follows a VNDF distribution based on SGGX. As a result, this method can represent objects with different characteristics.
+
 usage
 ```bash
 cd Gaussian
