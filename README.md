@@ -9,6 +9,7 @@ g++ -O2 -o o2render *.cpp ../Shading/SurfaceParameters.cpp ../Shading/Disney.cpp
 ./o2render
 ```
 
+This renderer supports different types of material
 <p align="center">
   <img src="https://github.com/user-attachments/assets/edb5b2b9-2117-46d9-a257-5409e5803735" width="200">
   <img src="https://github.com/user-attachments/assets/24eb121f-de21-4bdf-93fd-3bcb628a812f" width="200">
